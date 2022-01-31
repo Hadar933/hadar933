@@ -8,5 +8,5 @@ My name is Hadar Sharvit, nice to meet you :smile:
 - 📫 regardless, you can always [Email](mailto:hadar.sharvit1@mail.huji.ac.il) me, or add me as a connection on [Linked-in](https://www.linkedin.com/in/hadar-sharvit/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=hadar933&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadar933&theme=dark&hide=c,cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
