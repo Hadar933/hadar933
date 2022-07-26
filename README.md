@@ -1,6 +1,4 @@
 ### Hi there 👋
-My name is Hadar Sharvit, nice to meet you :smile:
-
 
 
 - :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem. I have recently completed a dual major BSc in **CS & Physics** 
