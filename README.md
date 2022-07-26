@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-__Welcome to my GitHub__
+<b>Welcome to my GitHub</b>
 </p>
 
 - :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem. I have recently completed a dual major BSc in **CS & Physics** 
