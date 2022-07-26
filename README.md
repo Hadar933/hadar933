@@ -4,12 +4,16 @@
 </h1>
 <p align="center">
   <b>Welcome to my GitHub</b>
-  <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/hadar-sharvit/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 </p>
+<p align="center">
+    <a href="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.linkedin.com/in/hadar-sharvit/)">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"  width="80" height="22"/>
+    </a>
+</p>
+
+
+
+
 
 
 - :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem. I have recently completed a dual major BSc in **CS & Physics** 
