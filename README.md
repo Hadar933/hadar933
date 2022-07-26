@@ -9,8 +9,12 @@
     <a href="https://www.linkedin.com/in/hadar-sharvit/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"  width="80" height="22"/>
     </a>
+   <a href="mailto: hadar.sharvit1@mail.huji.ac.il">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail Badge"  width="80" height="22"/>
+    </a>
 </p>
 
+(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 
