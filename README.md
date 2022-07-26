@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
+__Welcome to my GitHub__
+</p>
 
 - :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem. I have recently completed a dual major BSc in **CS & Physics** 
 - :microscope: As per my MSc, I'm part of the **Micro-Flight Lab** - We're building flying robots based on flies' flight mechanism
