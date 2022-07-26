@@ -12,8 +12,6 @@
    <a href="mailto: hadar.sharvit1@mail.huji.ac.il">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail Badge"  width="80" height="22"/>
     </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=hadar933&style=flat-square&color=blue" alt=""/>
 
 </p>
 
