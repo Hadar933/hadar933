@@ -19,7 +19,7 @@
 
 - :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem. I have recently completed a dual major BSc in **CS & Physics** 
 - :microscope: As per my MSc, I'm part of the **Micro-Flight Lab** - We're building flying robots based on biological flight mechanisms
-- :hourglass: I also work as a machine-learning researcher @Urecsys, mostly dealing with time series in the world of air pollutions
+- :hourglass: I also work as a machine-learning researcher @[Urecsys](https://www.urecsys.com/), mostly dealing with time series in the world of air pollutions
 
 <p align="center">
   <b> The tools I use the most :hammer:</b>
