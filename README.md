@@ -15,11 +15,10 @@
 
 </p>
 
+- :mortar_board: Recently earned my Master of Science degree, where I specialized in inverse dynamics — an approach to robot control leveraging deep time series analysis. As part of my studies, I was part of the [Micro-Flight Lab](https://www.beatus-lab.org/) research group, where we build flying robots inspired by biological flight mechanisms.
+- :bar_chart: Currently, I work as a machine learning researcher at @[Urecsys](https://www.urecsys.com/), primarily focusing on time series analysis of air pollution.
+- 🖋️ I also write on [Medium](https://medium.com/@hadarsharvit), If you're interested in ML concepts, with mathematical deep-dives and practical implementations, you should check it out.
 
-- :books: I’m currently pursuing my master's degree in **Computer Science** at the Hebrew University of Jerusalem. I have recently completed a dual major BSc in **CS & Physics** 
-- :microscope: As per my MSc, I'm part of the [Micro-Flight Lab](https://www.beatus-lab.org/) - We're building flying robots based on biological flight mechanisms
-- :hourglass: I also work as a machine-learning researcher @[Urecsys](https://www.urecsys.com/), mostly dealing with time series in the world of air pollutions
-- 🖋️ Oh, check out my [new blog](https://www.itshadar.com/)! I talk about machine learning concepts, algorithms and implementations 
 
 <p align="center">
   <b> The tools I use the most :hammer:</b>
