@@ -1,10 +1,9 @@
-# Hey There!
+
 <p align="center">
+  Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </p>
-<p align="center">
-  <b>Welcome to my GitHub :smile:</b>
-</p>
+
 
 ## About Me  
 - **AI Researcher & ML Team Lead at [Urecsys](https://urecsys.com/)** – Specializing in **time series and scalable ML systems**.  
