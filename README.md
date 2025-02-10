@@ -17,6 +17,6 @@
 
 ## Fun Facts  
 - I love building apps, and [Locator](https://locator.ltd) is a notable one. It's a tool for travelers that maps locations from blogs and social media automatically. It is entirely bootstrapped and brings in some $ MRR.
-- - **Tech Writer on [Medium](https://medium.com/@hadarsharvit)** – Writing about ML concepts, from theory to implementation.  
+- **Tech Writer on [Medium](https://medium.com/@hadarsharvit)** – Writing about ML concepts, from theory to implementation.  
 
 
