@@ -6,7 +6,7 @@
 
 
 ## About Me  
-**AI Researcher & ML Team Lead at [Urecsys](https://urecsys.com/)** – Specializing in **time series**.  
+**Director of Deep Learning at [Fetcherr](https://www.fetcherr.io/)** – Focusing on **time series**, **demand estimation** and more.  
 
 ## Publications  
 - **ICLR 2025** – *A Deep Inverse-Mapping Model for a Flapping Robotic Wing* – [GitHub](https://github.com/Hadar933/AdaptiveSpectrumLayer)  
