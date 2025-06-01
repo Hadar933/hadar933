@@ -7,8 +7,7 @@ tags: [logit]
 math: true
 ---
 
-# Discrete Choice Models and Logits
-To better understand the underlying mechanisms of demand and supply, this document explores core concepts in econometrics as presented in the UMass Amherst course \textit{ResEcon 703}. Topics covered include logit models, random coefficients (mixed) logit models, and BLP estimation, among others. The goal is to investigate how these theoretical frameworks can support the development of more accurate and robust demand estimation models.
+To better understand the underlying mechanisms of demand and supply, this document explores core concepts in econometrics as presented in the UMass Amherst course ResEcon 703. Topics covered include logit models, random coefficients (mixed) logit models, and BLP estimation, among others. The goal is to investigate how these theoretical frameworks can support the development of more accurate and robust demand estimation models.
 ## Discrete Choice Problem
 
 Steps to set up and analyze a discrete choice problem:
