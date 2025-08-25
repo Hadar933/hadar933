@@ -57,7 +57,7 @@ def pairwise_add_np(a:np.ndarray, b:np.ndarray)->list:
 </style>
 <figure class="blog-figure">
 
-![Vectorization Illustration](/assets/img/blog-images/pairwise-add-runtime.png)
+![Vectorization Illustration](/assets/img/pairwise-add-runtime.png)
   <figcaption>Runtime comparison: Python loop vs NumPy vectorized add (log scale).</figcaption>
 </figure>
 
@@ -68,7 +68,6 @@ thats order(s) of magnitude difference!
 let's examine a simplified version of recommendation systems retrieve/similarity search in work:
 lets say we have a dataset (a `pd.DataFrame` denoted `movies`) of $N$ movies, each has some known properties, eg genre, length, director,...
 
-<div align="center">
 
 | MovieID | Title              | Genre          | Length (min) | Director        | Year |
 | ------- | ------------------ | -------------- | ------------ | --------------- | ---- |
@@ -77,7 +76,6 @@ lets say we have a dataset (a `pd.DataFrame` denoted `movies`) of $N$ movies, ea
 | ...     | ...                | ...            | ...          | ...             | ...  |
 | N       | Spirited Away      | Animation      | 125          | Hayao Miyazaki  | 2001 |
 
-</div>
 
 for some movie $n\in[N]$, we want to find all other similar movies. in our example - we assume that "similar" means same genre and same director (and for computation-sake, we encode genre and director to integer value)
 
