@@ -50,16 +50,8 @@ import numpy as np
 def pairwise_add_np(a:np.ndarray, b:np.ndarray)->list:
   return a+b
 ```
-<style>
-.blog-figure{max-width:720px;margin:1.25rem auto;text-align:center}
-.blog-figure img{width:100%;height:auto;display:block;border-radius:8px;box-shadow:0 8px 20px rgba(0,0,0,0.12)}
-.blog-figure figcaption{font-size:0.92rem;color:#666;margin-top:0.5rem}
-</style>
-<figure class="blog-figure">
 
-![Vectorization Illustration](/assets/img/pairwise-add-runtime.png)
-  <figcaption>Runtime comparison: Python loop vs NumPy vectorized add (log scale).</figcaption>
-</figure>
+![for-loop-vs-np](https://raw.githubusercontent.com/Hadar933/hadar933/refs/heads/main/assets/img/blog-images/pairwise-add-runtime.png)
 
 thats order(s) of magnitude difference!
 
