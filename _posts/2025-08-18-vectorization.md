@@ -51,7 +51,7 @@ def pairwise_add_np(a:np.ndarray, b:np.ndarray)->list:
   return a+b
 ```
 
-![for-loop-vs-np](https://raw.githubusercontent.com/Hadar933/hadar933/refs/heads/main/assets/img/blog-images/pairwise-add-runtime.png)
+![for-loop-vs-numpy](https://raw.githubusercontent.com/Hadar933/hadar933/refs/heads/main/assets/img/blog-images/pairwise-add-runtime.png)
 
 thats order(s) of magnitude difference!
 
