@@ -3,7 +3,7 @@ title: Discrete Choice Models and Logits
 date: 2025-06-01 15:MM:SS +0300
 author: hadar
 categories: [Econometrics]
-tags: [logit, domain understanding]   
+tags: [logit, domain-understanding]   
 math: true
 ---
 
