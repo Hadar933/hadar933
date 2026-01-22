@@ -17,7 +17,7 @@
 
 ## Fun Facts  
 - [Substack](https://substack.com/@hadars) – A place for thoughts, experiments, half-baked ideas, and strong opinions (loosely held) about machine learning, AI research, and building real-world systems.
-- I love building apps, and [Locator](https://apps.apple.com/gb/app/locatorai/id6740416327) is a notable one. It's a tool for travelers that maps locations from blogs and social media automatically. It is entirely bootstrapped and brings in some $ MRR.
+- I love building apps, and [Locator](https://play.google.com/store/apps/details?id=locator.android&hl=en) is a notable one. It's a tool for travelers that maps locations from blogs and social media automatically. It is entirely bootstrapped and brings in some $ MRR.
 
 
 
