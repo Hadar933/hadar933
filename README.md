@@ -18,7 +18,6 @@
 
 ## Fun Facts  
 - [Substack](https://substack.com/@hadars) – A place for thoughts, experiments, half-baked ideas, and strong opinions (loosely held) about machine learning, AI research, and building real-world systems.
-- I love building apps, and [Locator](https://play.google.com/store/apps/details?id=locator.android&hl=en) is a notable one. It's a tool for travelers that maps locations from blogs and social media automatically. It is entirely bootstrapped and brings in some $ MRR. More recently, Ive been working on [Ascend](https://apps.apple.com/us/app/calisthenics-ascend/id6765751498) - a calisthenics app for iOS
-
+- I love building apps, and [Ascend Calisthenics]([https://play.google.com/store/apps/details?id=locator.android&hl=en](https://apps.apple.com/il/app/calisthenics-workout-ascend/id6765751498?l=he&platform=vision)) is a notable one. It's a tool for trainers who want to take ownership of their bodyweight progression. It is entirely bootstrapped and brings in some $ MRR.
 
 
